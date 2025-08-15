@@ -1,0 +1,48 @@
+{
+  "todos": [
+    {
+      "category": "Work",
+      "projects": [
+        {
+          "name": "Website Redesign",
+          "tasks": [
+            {
+              "id": 1,
+              "description": "Create wireframes",
+              "completed": false
+            },
+            {
+              "id": 2,
+              "description": "Design color scheme",
+              "completed": true            }
+          ]
+        },
+        {
+          "name": "Client Meeting",
+          "tasks": [
+            {
+              "id": 3,
+              "description": "Prepare presentation",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "category": "Personal",
+      "projects": [
+        {
+          "name": "Home Improvement",
+          "tasks": [
+            {
+              "id": 4,
+              "description": "Paint bedroom",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
